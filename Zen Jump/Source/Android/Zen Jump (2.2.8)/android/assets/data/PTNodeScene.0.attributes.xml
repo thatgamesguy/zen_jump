@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>35218</string>
+                <key>className</key>
+                <string>PTNodeScene</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Main Menu</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{-373.000,-73.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>35223</string>
+                <key>className</key>
+                <string>PTNodeScene</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Game Field</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{-55.000,-238.000}</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>35228</string>
+                <key>className</key>
+                <string>PTNodeScene</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>End</string>
+                </dict>
+                <key>Position</key>
+                <dict>
+                    <key>value</key>
+                    <string>{200.000,113.000}</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>

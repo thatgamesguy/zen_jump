@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>105</string>
+                <key>className</key>
+                <string>PTModelAssetCharacter</string>
+                <key>Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>player</string>
+                </dict>
+                <key>Collision Shape</key>
+                <dict>
+                    <key>id</key>
+                    <string>30545</string>
+                    <key>className</key>
+                    <string>PTModelCircle</string>
+                    <key>points</key>
+                    <array>
+                        <string>{0.000000,0.000000}</string>
+                        <string>{49.000000,0.000000}</string>
+                    </array>
+                    <key>oneWayCollisionVector</key>
+                    <string>{0.000000,0.000000}</string>
+                    <key>shapeType</key>
+                    <string>2</string>
+                </dict>
+                <key>Auto Tilt</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Game Over Delay</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.500000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Camera Shake</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Purchase Method</key>
+                <dict>
+                    <key>selectedStringValue</key>
+                    <string>kFree</string>
+                </dict>
+                <key>Price</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Store Identifier</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Ad Network</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>selectedStringValue</key>
+                    <string>kHeyzap</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>

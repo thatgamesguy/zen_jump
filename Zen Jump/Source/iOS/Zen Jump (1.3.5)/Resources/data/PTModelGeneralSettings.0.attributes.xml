@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>1</string>
+                <key>className</key>
+                <string>PTModelGeneralSettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                </dict>
+                <key>Version Number</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Application Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Zen Jump</string>
+                </dict>
+                <key>Comments</key>
+                <dict>
+                    <key>value</key>
+                    <string>add comments here</string>
+                </dict>
+                <key>Reset text</key>
+                <dict>
+                    <key>value</key>
+                    <string>PLEASE NOTE:  You are about to reset all your game progress and start completely over.  Are you sure you want to do that?</string>
+                </dict>
+                <key>Game Speed Max</key>
+                <dict>
+                    <key>value</key>
+                    <string>3.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Game Speed Increase</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Game Preset</key>
+                <dict>
+                    <key>value</key>
+                    <string>&lt;Custom&gt;</string>
+                </dict>
+                <key>Fixed Rotation</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Move Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{25.000,0.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Jump</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,10.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Jump Timeout</key>
+                <dict>
+                    <key>value</key>
+                    <string>100.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Friction</key>
+                <dict>
+                    <key>value</key>
+                    <string>2.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Character Friction</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Platform Friction</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.200000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>lastIdNumber</key>
+                <string>35449</string>
+                <key>platformSpecificValues</key>
+                <dict>
+                    <key>Apple iOS App Store</key>
+                    <dict>
+                        <key>interstitialsOrder</key>
+                        <string></string>
+                        <key>bannersOrder</key>
+                        <string></string>
+                        <key>adMobInterstitial</key>
+                        <string>ca-app-pub-3940256099942544/1033173712</string>
+                        <key>adMobBanner</key>
+                        <string>ca-app-pub-3940256099942544/6300978111</string>
+                        <key>bundleID</key>
+                        <string>com.envatomarket.zenjump</string>
+                        <key>nameOnDevice</key>
+                        <string>Zen Jump</string>
+                        <key>shareMessageTemplate</key>
+                        <string></string>
+                        <key>reviewLink</key>
+                        <string></string>
+                    </dict>
+                    <key>Apple Mac App Store</key>
+                    <dict>
+                        <key>reviewLink</key>
+                        <string></string>
+                    </dict>
+                    <key>Google Play Store</key>
+                    <dict>
+                        <key>licenseKey</key>
+                        <string></string>
+                        <key>versionCode</key>
+                        <string>1</string>
+                        <key>bundleID</key>
+                        <string>com.envatomarket.zenjump</string>
+                        <key>nameOnDevice</key>
+                        <string>Zen Jump</string>
+                        <key>shareMessageTemplate</key>
+                        <string></string>
+                        <key>bannersOrder</key>
+                        <string></string>
+                        <key>interstitialsOrder</key>
+                        <string></string>
+                        <key>adMobBanner</key>
+                        <string>ca-app-pub-3940256099942544/6300978111</string>
+                        <key>adMobInterstitial</key>
+                        <string>ca-app-pub-3940256099942544/1033173712</string>
+                        <key>reviewLink</key>
+                        <string></string>
+                    </dict>
+                    <key>Amazon App Store</key>
+                    <dict>
+                        <key>reviewLink</key>
+                        <string></string>
+                    </dict>
+                    <key>Microsoft Windows Marketplace</key>
+                    <dict>
+                        <key>reviewLink</key>
+                        <string></string>
+                    </dict>
+                </dict>
+                <key>scoreType</key>
+                <string>Coins</string>
+                <key>shareScreen</key>
+                <string>Game Field Screen</string>
+                <key>objectFrameEdgeState_0</key>
+                <string>1</string>
+                <key>objectFrameEdgeState_1</key>
+                <string>0</string>
+                <key>objectFrameEdgeState_2</key>
+                <string>1</string>
+                <key>objectFrameEdgeState_3</key>
+                <string>2</string>
+                <key>objectFrameRect</key>
+                <string>{{0.0000,0.0032},{0.1484,0.9968}}</string>
+                <key>_ibVersion</key>
+                <string>1.3.5</string>
+                <key>t</key>
+                <string>0</string>
+                <key>orientation</key>
+                <string>PTPScreenOrientationLandscape</string>
+                <key>screenAdjustment</key>
+                <string>0</string>
+            </dict>
+        </array>
+    </dict>
+</plist>

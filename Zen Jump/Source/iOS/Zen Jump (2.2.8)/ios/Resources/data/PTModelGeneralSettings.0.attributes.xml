@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>1</string>
+                <key>className</key>
+                <string>PTModelGeneralSettings</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string></string>
+                </dict>
+                <key>Version Number</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Application Name</key>
+                <dict>
+                    <key>value</key>
+                    <string>Zen Jump</string>
+                </dict>
+                <key>Comments</key>
+                <dict>
+                    <key>value</key>
+                    <string>add comments here</string>
+                </dict>
+                <key>Reset text</key>
+                <dict>
+                    <key>value</key>
+                    <string>PLEASE NOTE:  You are about to reset all your game progress and start completely over.  Are you sure you want to do that?</string>
+                </dict>
+                <key>Build Date</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>1481100140</string>
+                </dict>
+                <key>Game Speed Max</key>
+                <dict>
+                    <key>value</key>
+                    <string>3.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Game Speed Increase</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Game Preset</key>
+                <dict>
+                    <key>value</key>
+                    <string>&lt;Custom&gt;</string>
+                </dict>
+                <key>Fixed Rotation</key>
+                <dict>
+                    <key>value</key>
+                    <string>1</string>
+                </dict>
+                <key>Move Speed</key>
+                <dict>
+                    <key>value</key>
+                    <string>{25.000,0.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Jump</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,10.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Jump Timeout</key>
+                <dict>
+                    <key>value</key>
+                    <string>100.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Friction</key>
+                <dict>
+                    <key>value</key>
+                    <string>2.000000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Character Friction</key>
+                <dict>
+                    <key>value</key>
+                    <string>{1.000,1.000}</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Gravity</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,-50.000}</string>
+                </dict>
+                <key>Platform Friction</key>
+                <dict>
+                    <key>value</key>
+                    <string>0.200000</string>
+                    <key>useDefault</key>
+                    <string>0</string>
+                </dict>
+                <key>Bounce Force</key>
+                <dict>
+                    <key>value</key>
+                    <string>{0.000,0.000}</string>
+                </dict>
+                <key>Move Up Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>16777235</string>
+                </dict>
+                <key>Move Down Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>16777237</string>
+                </dict>
+                <key>Move Left Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>16777234</string>
+                </dict>
+                <key>Move Right Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>16777236</string>
+                </dict>
+                <key>Motor CW Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>88</string>
+                </dict>
+                <key>Motor CCW Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>90</string>
+                </dict>
+                <key>Rotate Left Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>44</string>
+                </dict>
+                <key>Rotate Right Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>46</string>
+                </dict>
+                <key>Shoot Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>32</string>
+                </dict>
+                <key>Jump Key</key>
+                <dict>
+                    <key>value</key>
+                    <string>74</string>
+                </dict>
+                <key>lastIdNumber</key>
+                <string>37580</string>
+                <key>platformSpecificValues</key>
+                <dict>
+                    <key>Apple iOS App Store</key>
+                    <dict>
+                        <key>adMobBanner</key>
+                        <string></string>
+                        <key>interstitialsOrder</key>
+                        <string></string>
+                        <key>bannersOrder</key>
+                        <string></string>
+                        <key>adMobInterstitial</key>
+                        <string></string>
+                        <key>nameOnDevice</key>
+                        <string>Zen Jump</string>
+                        <key>shareMessageTemplate</key>
+                        <string></string>
+                        <key>reviewLink</key>
+                        <string></string>
+                        <key>bundleID</key>
+                        <string>com.companyname.gamename</string>
+                    </dict>
+                    <key>Apple Mac App Store</key>
+                    <dict>
+                        <key>reviewLink</key>
+                        <string></string>
+                    </dict>
+                    <key>Google Play Store</key>
+                    <dict>
+                        <key>licenseKey</key>
+                        <string></string>
+                        <key>versionCode</key>
+                        <string>1</string>
+                        <key>bannersOrder</key>
+                        <string></string>
+                        <key>interstitialsOrder</key>
+                        <string></string>
+                        <key>adMobBanner</key>
+                        <string></string>
+                        <key>adMobInterstitial</key>
+                        <string></string>
+                        <key>nameOnDevice</key>
+                        <string>Zen Jump</string>
+                        <key>shareMessageTemplate</key>
+                        <string></string>
+                        <key>reviewLink</key>
+                        <string></string>
+                        <key>bundleID</key>
+                        <string>com.companyname.gamename</string>
+                    </dict>
+                    <key>Amazon App Store</key>
+                    <dict>
+                        <key>reviewLink</key>
+                        <string></string>
+                    </dict>
+                    <key>Microsoft Windows Marketplace</key>
+                    <dict>
+                        <key>reviewLink</key>
+                        <string></string>
+                    </dict>
+                    <key>Apple TV App Store</key>
+                    <dict>
+                        <key>reviewLink</key>
+                        <string></string>
+                    </dict>
+                    <key>Windows Store</key>
+                    <dict>
+                        <key>reviewLink</key>
+                        <string></string>
+                    </dict>
+                    <key>Steam Store</key>
+                    <dict>
+                        <key>reviewLink</key>
+                        <string></string>
+                    </dict>
+                </dict>
+                <key>scoreType</key>
+                <string>Coins Collected</string>
+                <key>shareScreen</key>
+                <string>Game Field Screen</string>
+                <key>objectFrameEdgeState_0</key>
+                <string>1</string>
+                <key>objectFrameEdgeState_1</key>
+                <string>0</string>
+                <key>objectFrameEdgeState_2</key>
+                <string>1</string>
+                <key>objectFrameEdgeState_3</key>
+                <string>2</string>
+                <key>objectFrameRect</key>
+                <string>{{0.0000,0.0032},{0.1484,0.9968}}</string>
+                <key>_ibVersion</key>
+                <string>2.2.8</string>
+                <key>t</key>
+                <string>0</string>
+                <key>orientation</key>
+                <string>PTPScreenOrientationLandscape</string>
+                <key>screenAdjustment</key>
+                <string>0</string>
+            </dict>
+        </array>
+    </dict>
+</plist>

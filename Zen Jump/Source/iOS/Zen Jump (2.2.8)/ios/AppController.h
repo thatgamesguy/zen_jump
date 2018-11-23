@@ -1,0 +1,16 @@
+
+#import <UIKit/UIKit.h>
+
+@class RootViewController;
+
+@interface AppController : NSObject < UIApplicationDelegate> {
+    UIWindow *window;
+    RootViewController	*viewController;
+}
+@property (nonatomic, readonly) UIWindow* window;
+@property (nonatomic, readonly) RootViewController *viewController;
+- (void)loadingDidComplete;
+- (void)showCustomFullscreenAd;
+
+@end
+
